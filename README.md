@@ -26,4 +26,4 @@ The limit of this study is, there were only small numbers of venues pulled for s
 Raw data scraped can be found in Data/Raw/<br>
 Cleaned data can be found in Data/<br>
 My jupyter notebooks of data wrangling and exploratory data analysis can be found in Notebooks/<br>
-Final_report.pdf is a full report of this project, and Presentation.pptx contains a short overview of it.
+Final_report.pdf is a full report of this project, and Presentation.pdf contains a short overview of it.
