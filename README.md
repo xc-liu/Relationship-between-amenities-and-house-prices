@@ -21,3 +21,9 @@ In this project, I clustered the Perth suburbs by their venue compositions, expl
 The differences in house prices among different cluster clearly showed that local venue composition and affect / indicates the local house prices to a degree. This relationship between venue compositions and house prices is complicated and non-linear, with the food venues having the clearest and most obvious relationship with house prices. It’s also found that the distances to the nearest urban center, airport, and train station affect suburbs with different venue compositions slightly differently.
 
 The limit of this study is, there were only small numbers of venues pulled for some suburbs. Thus, the relationships of the ratios of some venue categories and the house prices are not studied thoroughly. If there were more data, there might have been different conclusions drawn for these venue categories. Besides that, this project only studied the suburbs in Perth, WA, so the conclusions might not be applicable to other areas.
+
+## More details
+Raw data scraped can be found in Data/Raw/<br>
+Cleaned data can be found in Data/<br>
+My jupyter notebooks of data wrangling and exploratory data analysis can be found in Notebooks/<br>
+Final_report.pdf is a full report of this project, and Presentation.pptx contains a short overview of it.
