@@ -1,4 +1,4 @@
-# Venue Types - House Prices Relationship
+# The relationship between amenities and house prices
 
 ## Background
 Perth is the capital city of Western Australia, the fourth-most populous city in Australia, and some say the most isolated city in the world. It has over 200 suburbs, stretching from Two Rocks in the north to Singleton in the south, and east inland to The Lakes. 
